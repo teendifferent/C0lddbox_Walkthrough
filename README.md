@@ -12,7 +12,7 @@ Exploitation and Vulnerability Hunting
 Reporting and Documentation
 
 ## Accessing the Walkthrough 📖
-You can access the complete C0lddbox_Walkthrough on our blog at 🌐 https://medium.com/@teendifferent7/c0lddbox-easy-a-chill-guide-to-pen-testing-and-vulnerability-hunting-481f55eddb4 or on our GitHub page at 🌐 https://redditarun.github.io/C0lddbox_Walkthrough/.
+You can access the complete C0lddbox_Walkthrough on our blog at 🌐 https://medium.com/@teendifferent7/c0lddbox-easy-a-chill-guide-to-pen-testing-and-vulnerability-hunting-481f55eddb4 or on our GitHub page at 🌐 https://teendifferent.github.io/C0lddbox_Walkthrough/.
 
 ## Contributing 🤝
 We welcome contributions from anyone interested in making this walkthrough better. If you find any errors or want to suggest improvements, please feel free to create an issue or submit a pull request.
